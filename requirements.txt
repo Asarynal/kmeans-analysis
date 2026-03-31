@@ -3,3 +3,4 @@ matplotlib
 seaborn
 umap-learn
 scikit-learn
+jinja2
